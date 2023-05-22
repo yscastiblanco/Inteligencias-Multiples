@@ -1,0 +1,99 @@
+.img-nav-left{
+    max-width: 45px;
+}
+
+.img-nav-right{
+    max-width: 45px;
+}
+
+.img-body{
+    position: relative;
+    top: 10px;
+}
+
+.navbar-brand{
+    font-size: 16px;
+}
+
+i{
+    color: black;
+    background: white;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
+
+i:before{
+    position: relative;
+    top: 13px;
+    font-size: 20px;
+}
+
+footer{
+    background-color: black;
+    position: absolute;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
+
+.title-body{
+    font-size: 25px;
+}
+
+.cuadro1 div{
+    margin: 0 auto;
+    width: 145px; 
+    display: table;
+    height: 145px; 
+    border: 3px #000 solid;
+    background: #FFD782;
+    color: white;
+}
+.cuadro2 div{
+    margin: 0 auto;
+    width: 145px; 
+    display: table;
+    height: 145px; 
+    border: 3px #000 solid;
+}
+
+.cuadro3 div{
+    margin: 0 auto;
+    width: 145px; 
+    display: table;
+    height: 145px; 
+    border: 1px #000 solid;
+}
+
+.cuadro4 div{
+    margin: 0 auto;
+    width: 145px; 
+    display: table;
+    height: 145px; 
+    border: 1px #000 solid;
+}
+
+
+.row{
+    margin-bottom: 20px;
+}
+
+
+a.page_item{
+    background: #000;
+    color: white;
+}
+li{
+    margin: 10px;
+    cursor: pointer;
+}
+table{
+    text-align:center;
+    width=900px;
+    height=200px;
+    border-style: solid; 
+}
+table td{
+    border: 1px #000 solid;
+}
